@@ -24,4 +24,4 @@ module "sample_vpc" {
    aws_ssh_key_pair_name             = var.aws_ssh_key_pair_name
    aws_availability_zone1             = var.aws_availability_zone1
    aws_availability_zone2             = var.aws_availability_zone2
-# }
+}
